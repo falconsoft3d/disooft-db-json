@@ -1,0 +1,16 @@
+{
+  "plans" : [
+    { 
+      "name" : "Plan 1"
+      "Price" : "500"
+    },
+    { 
+      "name" : "Plan 2"
+      "Price" : "1500"
+    },
+    { 
+      "name" : "Plan 3"
+      "Price" : "2500"
+    },
+  ]
+}
